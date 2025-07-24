@@ -1,0 +1,13 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to Funbank loan related local API's"
+  contactDetails :
+    name : "Nikhil Walsane"
+    email : "nikhilwalsane23@gmail.com"
+  onCallSupport:
+    -(+91)11002353212
+    -(+91)23455676589
+
+
