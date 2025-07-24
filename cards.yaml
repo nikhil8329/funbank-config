@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to Funbank cards related local API's"
+  contactDetails :
+    name : "Nikhil Walsane"
+    email : "nikhilwalsane23@gmail.com"
+  onCallSupport:
+    -(+91)23457154879
+    -(+91)64789023470
