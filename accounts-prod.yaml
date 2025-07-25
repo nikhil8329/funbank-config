@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to Funbank account related Prod API's"
   contactDetails :
     name : "Mahendra Dhoni"
-    email : "mahid54@gmail.com"
+    email : "3e19fbf9e3a01ed8934203145a411845fe7e4631d1d9d854ad978a8578882e8617b54e55eb986777ea89334d26deccfc"
   onCallSupport:
     -(+91)56984355349
     -(+91)76329145084
