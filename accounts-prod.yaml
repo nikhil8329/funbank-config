@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to Funbank account related Prod API's"
   contactDetails :
     name : "Mahendra Dhoni"
-    email : "3a3c04e886eda8201d225eacd67d01966f07184a7fc51bd0ddcb52cdb36802ed002f3dd579dc8bc2b9d0b3c70f50aa5e"
+    email : "{cipher}3a3c04e886eda8201d225eacd67d01966f07184a7fc51bd0ddcb52cdb36802ed002f3dd579dc8bc2b9d0b3c70f50aa5e"
   onCallSupport:
     -(+91)56984355349
     -(+91)76329145084
