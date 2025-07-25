@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to Funbank account related QA API's"
   contactDetails :
     name : "Aniket Waghmare"
-    email : "350f022fbcc2de80a2cba71febf0cb42b7465b602d23c9df135b8769b5e47a958ead561b7f22af27fc1883779ef3288c"
+    email : "aniketw143@gmail.com"
   onCallSupport:
     -(+91)44557612391
     -(+91)88834889567
